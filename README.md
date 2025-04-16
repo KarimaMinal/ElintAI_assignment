@@ -4,13 +4,13 @@
 > - Your own Gmail account and generate an App Password for it
 > - Your own OpenAI API key (get one from [OpenAI's platform](https://platform.openai.com/))
 > - Never share or commit your credentials
-> - The example credentials in the code are placeholders and won't work
+> - The example credentials in the code are placeholders and won't work. 
 
 An automated resume screening and evaluation system that uses AI to analyze resumes, provide detailed feedback, and send personalized evaluation emails to candidates.
 
 ## Example Output
 
-Here's how the automated feedback email looks:
+Here's an example of how the automated feedback email looks:
 
 ### Part 1: Overall Scores and Breakdown
 ![CV Evaluation Part 1](https://github.com/KarimaMinal/ElintAI_assignment/blob/main/screenshots/Screenshot%202025-04-17%20000304.png))
