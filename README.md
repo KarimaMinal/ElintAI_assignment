@@ -19,7 +19,7 @@ Here's how the automated feedback email looks:
 ![CV Evaluation Part 2](https://github.com/KarimaMinal/ElintAI_assignment/blob/main/screenshots/Screenshot%202025-04-17%20000335.png))
 
 ### Part 3: Keywords and Next Steps
-![CV Evaluation Part 3](https://github.com/KarimaMinal/ElintAI_assignment/blob/main/screenshots/Screenshot%202025-04-17%20000335.png))
+![CV Evaluation Part 3]((https://github.com/KarimaMinal/ElintAI_assignment/blob/main/screenshots/Screenshot%202025-04-17%20000403.png)))
 
 
 ## Features
