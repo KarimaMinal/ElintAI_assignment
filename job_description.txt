@@ -1,0 +1,30 @@
+**Job Title**: Machine Learning Engineer - Entry Level
+
+**Company**: Elint AI Systems
+
+**Location**: Remote (India)
+
+**Job Description**:
+We are looking for a passionate and entry-level Machine Learning Engineer to join our AI Innovation team. You will work closely with senior data scientists and software engineers to design, build, and deploy scalable machine learning solutions.
+
+**Key Responsibilities**:
+- Develop ML models for NLP and classification tasks.
+- Clean, preprocess, and analyze large datasets.
+- Collaborate on model deployment pipelines using Python.
+- Work on open-source and internal projects related to computer vision or language models.
+
+**Required Qualifications**:
+- B.Tech/M.Tech in Computer Science, AI, Data Science, or related field.
+- Strong understanding of supervised and unsupervised learning techniques.
+- Proficiency in Python and ML libraries such as scikit-learn, pandas, NumPy.
+- Familiarity with TensorFlow or PyTorch.
+- Strong analytical and problem-solving skills.
+
+**Preferred Skills**:
+- Experience with NLP (spaCy, transformers).
+- Version control (Git).
+- Contribution to Kaggle or open-source projects.
+
+**Nice to Have**:
+- Knowledge of Docker, REST APIs.
+- Awareness of LLMs like GPT, BERT, etc.
