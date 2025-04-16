@@ -13,7 +13,7 @@ An automated resume screening and evaluation system that uses AI to analyze resu
 Here's how the automated feedback email looks:
 
 ### Part 1: Overall Scores and Breakdown
-![CV Evaluation Part 1]("C:\CODE\CV_SCORE\CV_SCORE\screenshots\Screenshot 2025-04-17 000304.png")
+![CV Evaluation Part 1](https://github.com/KarimaMinal/ElintAI_assignment/blob/main/screenshots/Screenshot%202025-04-17%20000304.png)")
 
 ### Part 2: Experience and Skills Analysis
 ![CV Evaluation Part 2]("C:\CODE\CV_SCORE\CV_SCORE\screenshots\Screenshot 2025-04-17 000335.png")
