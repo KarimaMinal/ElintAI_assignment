@@ -205,7 +205,7 @@ def main():
         result = crew.kickoff()
 
         # Send feedback email
-        to_email = "receiver's email"  # Specific email address
+        to_email = "Candidate's Email"  # Specific email address
         send_feedback_email(to_email, result)
         print(f"Feedback sent for: {file}")
 
