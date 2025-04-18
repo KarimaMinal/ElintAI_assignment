@@ -255,7 +255,7 @@ def main():
             result = crew.kickoff()
 
             # Send feedback email
-            to_email = "rohitmudili5@gmail.com"  # Specific email address
+            to_email = "Receiver email"  # Specific email address
             send_feedback_email(to_email, result)
             logger.info(f"Completed processing: {file}")
             
