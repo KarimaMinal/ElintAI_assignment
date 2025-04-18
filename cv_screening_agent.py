@@ -240,7 +240,7 @@ def main():
         feedback = score_resume(masked_text, job_description)
         
         # Use specific email address
-        to_email = "Receiver's Email"
+        to_email = "Receiver email"
         
         # Send enhanced feedback
         send_feedback_email(to_email, feedback, batch_year, ai_experience)
