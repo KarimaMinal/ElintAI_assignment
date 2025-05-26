@@ -156,3 +156,4 @@ For support, please open an issue in the repository or contact the maintainers.
 - OpenAI for providing the GPT API
 - PyPDF2 for PDF processing
 - docx2txt for DOCX processing 
+###
